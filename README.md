@@ -3,6 +3,7 @@
 
 Просто вставь кошелек!
 
+<img width="615" height="48" alt="image" src="https://github.com/user-attachments/assets/750eed08-4276-4bb2-ae32-58cd9bed600c" />
 
 
 
